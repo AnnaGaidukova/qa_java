@@ -16,6 +16,7 @@ import static org.junit.Assert.assertTrue;
 
 @RunWith(Parameterized.class)
 public class LionTest {
+
     private final String sex;
     private final boolean expectedRes;
     @Mock

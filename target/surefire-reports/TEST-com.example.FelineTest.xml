@@ -66,10 +66,10 @@
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
   <testcase classname="com.example.FelineTest" name="getFoodTest[Тест: кол-во котят: 0, 1]" time="0.001"/>
-  <testcase classname="com.example.FelineTest" name="testGetKittens[Тест: кол-во котят: 0, 1]" time="0.001"/>
+  <testcase classname="com.example.FelineTest" name="testGetKittens[Тест: кол-во котят: 0, 1]" time="0"/>
   <testcase classname="com.example.FelineTest" name="getKittens[Тест: кол-во котят: 0, 1]" time="0"/>
   <testcase classname="com.example.FelineTest" name="getFamily[Тест: кол-во котят: 0, 1]" time="0"/>
-  <testcase classname="com.example.FelineTest" name="getFoodTest[Тест: кол-во котят: 0, 1]" time="0"/>
+  <testcase classname="com.example.FelineTest" name="getFoodTest[Тест: кол-во котят: 0, 1]" time="0.001"/>
   <testcase classname="com.example.FelineTest" name="testGetKittens[Тест: кол-во котят: 0, 1]" time="0"/>
   <testcase classname="com.example.FelineTest" name="getKittens[Тест: кол-во котят: 0, 1]" time="0"/>
   <testcase classname="com.example.FelineTest" name="getFamily[Тест: кол-во котят: 0, 1]" time="0"/>
